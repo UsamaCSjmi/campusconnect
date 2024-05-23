@@ -1,9 +1,18 @@
 <?php
 session_start();
-$username = "root";
-$password = "";
+//localhost
+// $username = "root";
+// $password = "";
+// $server = "localhost";
+// $database ="ccp";
+
+
+
+//Server
+$username = "u936121314_campusconnect";
+$password = "vmV/wb#1Qo:";
 $server = "localhost";
-$database ="ccp";
+$database ="u936121314_campusconnect";
 
 $conn = mysqli_connect($server, $username, $password, $database );
 if(!$conn){
