@@ -33,7 +33,7 @@ if(isset($_POST['submit'])){
                                 <th>Date</th>
                                 <th>Department</th>
                                 <th>Complaint</th>
-                                <th>Citizen</th>
+                                <th>Student</th>
                                 <th>Mobile</th>
                                 <th>Current Status</th>
                                 <th>Change Status</th>
