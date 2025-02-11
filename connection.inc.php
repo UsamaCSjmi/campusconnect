@@ -4,7 +4,7 @@ session_start();
 // $username = "root";
 // $password = "";
 // $server = "localhost";
-// $database ="ccp";
+// $database ="ccportal";
 
 
 
